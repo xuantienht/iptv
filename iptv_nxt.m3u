@@ -707,6 +707,33 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 
 #-*-- Livestream -*--#
+#-------------------FPT Service-------------------#
+#EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình
+udp://@225.1.1.2:30120
+#EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình
+udp://@225.1.4.199:30120
+#EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình
+udp://@225.1.4.200:30120
+#EXTINF:-1 group-title="FPT Service",Pladio
+udp://@225.1.2.244:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.11:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.27:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.30:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.32:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.68:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.95:30120
+#EXTINF:-1 group-title="FPT Service",VTV3 HD
+udp://@225.1.1.65:30120
+#EXTINF:-1 group-title="FPT Service",VTV3 HD
+udp://@225.1.2.229:30120
+#EXTINF:-1 group-title="FPT Service",VTV3 HD
+udp://@225.1.2.230:30120
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", TV360 Live 1
 https://api.vthanhtivi.pw/v1/getlink/core/tv360.php?id=285
@@ -730,40 +757,7 @@ https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 2
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 3
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 5
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 6
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 7
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 9
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 01
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 02
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV Sự kiện và Thể thao
 #https://api.vthanhtivi.pw/v1/getlink/mytv_web/267/hd
@@ -788,199 +782,3 @@ http://sv1.cvacetv.ga:8080/4KUHD
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", Live Bóng Chuyền
 https://api.vthanhtivi.pw/v1/getlink/tv360/1/2
 
-#-*--CVACEPLUS-*--#
-
-#EXTINF:-1 group-title="📺| THỂ THAO",Sky Sport Premier League
-http://live-eu.cvacetv.ga:8080/stream/channelid/857180288?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Movistar LC
-http://live-eu.cvacetv.ga:8080/stream/channelid/811274403?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Setanta Sports 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/366513027?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Setanta Sports 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1186140710?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Setanta Sports UA
-http://live-eu.cvacetv.ga:8080/stream/channelid/526303944?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Setanta Sports UA Plus
-http://live-eu.cvacetv.ga:8080/stream/channelid/714498194?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",CANAL+
-http://live-eu.cvacetv.ga:8080/stream/channelid/234191154?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",CANAL+SPORT
-http://live-eu.cvacetv.ga:8080/stream/channelid/1176928142?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",CANAL+DECALE
-http://live-eu.cvacetv.ga:8080/stream/channelid/367395574?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",GOLF+
-http://live-eu.cvacetv.ga:8080/stream/channelid/2004141092?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",BEIN SPORTS 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/1259273937?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",BEIN SPORTS 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/2115527153?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",BEIN SPORTS 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/688385117?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",BEIN SPORTS MAX 4
-http://live-eu.cvacetv.ga:8080/stream/channelid/156363472?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",BEIN SPORTS MAX 5
-http://live-eu.cvacetv.ga:8080/stream/channelid/1571719496?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",BEIN SPORTS MAX 6
-http://live-eu.cvacetv.ga:8080/stream/channelid/123120684?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",BEIN SPORTS MAX 7
-http://live-eu.cvacetv.ga:8080/stream/channelid/1336527274?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Маtch ТV
-http://live-eu.cvacetv.ga:8080/stream/channelid/2089532616?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Маtch Futbol 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/1023261697?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Маtch Futbol 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1979316726?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Маtch Futbol 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/1369262328?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Маtch Premier
-http://live-eu.cvacetv.ga:8080/stream/channelid/1658534168?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sport TV 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/32217420?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sport TV 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1003229911?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sport TV 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/1998227386?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eleven 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/549607407?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eleven 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1877013522?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eleven 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/1258257981?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eleven Sports 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/365713668?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eleven Sports 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1406404504?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eleven Sports 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/123704399?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eleven Sports 4
-http://live-eu.cvacetv.ga:8080/stream/channelid/805151425?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Canal+ Sport 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/2040699598?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Canal+ Sport 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1369349572?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Canal+ Premium
-http://live-eu.cvacetv.ga:8080/stream/channelid/1195525951?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Canal+ Family
-http://live-eu.cvacetv.ga:8080/stream/channelid/1185753356?profile=ace
-#EXTINF:-1 ggroup-title="📺| THỂ THAO",Digi Sport 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/79579365?profile=ace
-#EXTINF:-1 ggroup-title="📺| THỂ THAO",Digi Sport 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1356373544?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Polsat Sport Premium 1
-http://live-vn.cvacetv.ga:8080/PolsatPre1
-#EXTINF:-1 group-title="📺| THỂ THAO",Polsat Sport Premium 2
-http://live-vn.cvacetv.ga:8080/PolsatPre2
-#EXTINF:-1 group-title="📺| THỂ THAO",Polsat Sport
-http://live-eu.cvacetv.ga:8080/stream/channelid/42897799?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Polsat Sport Extra
-http://live-eu.cvacetv.ga:8080/stream/channelid/1498153344?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Polsat Sport News
-http://live-eu.cvacetv.ga:8080/stream/channelid/1770183417?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Polsat Sport Fight
-http://live-eu.cvacetv.ga:8080/stream/channelid/360275478?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Polsat Games
-http://live-eu.cvacetv.ga:8080/stream/channelid/1657879538?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Fightbox
-http://live-eu.cvacetv.ga:8080/stream/channelid/1391596902?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eurosport 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/808913475?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Eurosport 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/200777788?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",DIEMA SPORT 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/817005715?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",DIEMA SPORT 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/320624092?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",DIEMA SPORT 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/508323720?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",MAX Sport 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/1349331001?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",MAX Sport 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/1843255211?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",MAX Sport 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/2102902093?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sport Klub 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/593768302?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sport Klub 2
-http://live-eu.cvacetv.ga:8080/stream/channelid/701676030?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sport Klub 3
-http://live-eu.cvacetv.ga:8080/stream/channelid/854884273?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Star Sports 1
-http://live-vn.cvacetv.ga:9981/stream/channelid/1598743014?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Star Sports 2
-http://live-vn.cvacetv.ga:9981/stream/channelid/2019453275?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Star Sports Select 1
-http://live-vn.cvacetv.ga:9981/stream/channelid/1663708536?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Star Sports Select 2
-http://live-vn.cvacetv.ga:9981/stream/channelid/942401668?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sony Ten 1
-http://live-vn.cvacetv.ga:9981/stream/channelid/892071512?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Sony Ten 2
-http://live-vn.cvacetv.ga:9981/stream/channelid/815376455?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN US
-http://live-vn.cvacetv.ga:9981/stream/channelid/1363922654?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN2 US
-http://live-vn.cvacetv.ga:9981/stream/channelid/1706307457?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",USA Network
-http://live-vn.cvacetv.ga:9981/stream/channelid/1065069046?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",NBC Golf
-http://live-vn.cvacetv.ga:9981/stream/channelid/1319103719?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",FS1
-http://live-vn.cvacetv.ga:8080/FS1
-#EXTINF:-1 group-title="📺| THỂ THAO",FS2
-http://live-vn.cvacetv.ga:8080/FS2
-#EXTINF:-1 group-title="📺| THỂ THAO",CBS
-http://live-eu.cvacetv.ga/CBS
-#EXTINF:-1 group-title="📺| THỂ THAO",TNT HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/683103719?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN Mexico
-http://live-vn.cvacetv.ga:9981/stream/channelid/601009722?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN2 Mexico
-http://live-vn.cvacetv.ga:9981/stream/channelid/205223657?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN3 Mexico
-http://live-vn.cvacetv.ga:9981/stream/channelid/338914247?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN Extra
-http://live-vn.cvacetv.ga:9981/stream/channelid/1986857374?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN Argentina
-http://live-vn.cvacetv.ga:9981/stream/channelid/692654039?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN2 Argentina
-http://live-vn.cvacetv.ga:9981/stream/channelid/699583609?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",ESPN3 Argentina
-http://live-vn.cvacetv.ga:9981/stream/channelid/1736423595?profile=ace
-#EXTINF:-1 group-title="📺| ENGLAND",BBC One
-http://live-eu.cvacetv.ga:8080/stream/channelid/1738038987?profile=ace
-#EXTINF:-1 group-title="📺| ENGLAND",BBC Two
-http://live-eu.cvacetv.ga:8080/stream/channelid/1139232619?profile=ace
-#EXTINF:-1 group-title="📺| ENGLAND",BBC Red Button
-http://live-eu.cvacetv.ga:8080/stream/channelid/1606897522?profile=ace
-#EXTINF:-1 group-title="📺| ENGLAND",ITV
-http://live-eu.cvacetv.ga:8080/stream/channelid/1088570370?profile=ace
-#EXTINF:-1 group-title="📺| ENGLAND",Free Sports
-http://live-eu.cvacetv.ga:8080/stream/channelid/1808231566?profile=ace
-#EXTINF:-1 group-title="📺| AUTRALIA",10 HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/944362278?profile=ace
-#EXTINF:-1 group-title="📺| AUTRALIA",10 Bold
-http://live-vn.cvacetv.ga:9981/stream/channelid/740854633?profile=ace
-#EXTINF:-1 group-title="📺| AUTRALIA",7 HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/546601414?profile=ace
-#EXTINF:-1 group-title="📺| AUTRALIA",9 HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/1761146754?profile=ace
-#EXTINF:-1 group-title="📺| AUTRALIA",9Gem HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/196530261?profile=ace
-#EXTINF:-1 group-title="📺| AUTRALIA",SBS One
-http://live-vn.cvacetv.ga:9981/stream/channelid/57280988?profile=ace
-#EXTINF:-1 group-title="📺| GERMANY",Das Erste
-http://live-eu.cvacetv.ga:8080/stream/channelid/604561997?profile=ace
-#EXTINF:-1 group-title="📺| GERMANY",ZDF HD
-http://live-eu.cvacetv.ga:8080/stream/channelid/876757161?profile=ace
-#EXTINF:-1 group-title="📺| GERMANY",RTL HD
-http://live-eu.cvacetv.ga:8080/stream/channelid/427040053?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",CBC Sport Azerbaijan
-http://live-eu.cvacetv.ga:8080/stream/channelid/1532684093?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",bTV Action
-http://live-eu.cvacetv.ga:8080/stream/channelid/1293982775?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",Canal 11
-http://live-eu.cvacetv.ga:8080/stream/channelid/1332360777?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",TVP Sport
-http://live-eu.cvacetv.ga:8080/stream/channelid/1075224219?profile=ace
-#EXTINF:-1 group-title="📺| THỂ THAO",PTV Sports Pakistan
-http://live-vn.cvacetv.ga:9981/stream/channelid/1664862898?profile=ace
