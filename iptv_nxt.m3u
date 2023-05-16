@@ -270,8 +270,8 @@ http://188.166.214.111:9981/stream/channelid/755547061
 http://188.166.214.111:9981/stream/channelid/796709226
 #EXTINF:-1 tvg-id="ksport1hd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 http://188.166.214.111:9981/stream/channelid/1200941893
-#EXTINF:-1 tvg-id="ksport2hd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://188.166.214.111:9981/stream/channelid/484422896
+#EXTINF:-1 tvg-id="ksport2hd" group-title="📺| K+ fpt" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2
+udp://@225.1.1.11:30120
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="📺| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
