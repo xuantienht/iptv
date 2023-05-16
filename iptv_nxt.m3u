@@ -29,9 +29,9 @@ udp://@225.1.2.166:30120
 #EXTVLCOPT:http-user-agent=VThanhTivi
 udp://@225.1.1.128:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 HD Tây Nam Bộ
-https://api.vthanhtivi.pw/v1/getlink/vtvgo/7
+udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-https://api.vthanhtivi.pw/v1/getlink/vtvgo/163
+udp://@225.1.1.108:30120
 
 #-*--VTVCAB-*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="📺|VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",  VTVcab 1 - Vie Giải trí HD
