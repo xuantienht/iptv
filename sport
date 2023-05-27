@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,IRD-1-4 PTV-SPORTS-HD
+http://103.121.31.251:8000/play/udp-1/index.m3u8
+#EXTINF:-1,ATV
+http://95.216.6.244:8000/play/a007/index.m3u8
+#EXTINF:-1,H1
+http://95.216.6.244:8000/play/a008/index.m3u8
+#EXTINF:-1,Setanta_Sports_1_HD
+http://95.216.6.244:8000/play/a001/index.m3u8
+#EXTINF:-1,Setanta_Sports_2_HD
+http://95.216.6.244:8000/play/a003/index.m3u8
+#EXTINF:-1,Setanta_Sports_Eurazia
+http://95.216.6.244:8000/play/a002/index.m3u8
+#EXTINF:-1,Setanta_Sports_Ukraine
+http://95.216.6.244:8000/play/a005/index.m3u8
+#EXTINF:-1,Shant_HD
+http://95.216.6.244:8000/play/a006/index.m3u8
+#EXTINF:-1,Shant_Premium
+http://95.216.6.244:8000/play/a004/index.m3u8
+#EXTINF:-1,Xazar_TV_AZ
+http://95.216.6.244:8000/play/a00b/index.m3u8
+#EXTINF:-1,Армения ТВ
+http://95.216.6.244:8000/play/a00c/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://200.58.73.46:1976/play/a015/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://200.58.73.46:1976/play/a005/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://200.58.73.46:1976/play/a004/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://200.58.73.46:1976/play/a00n/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://200.58.73.46:1976/play/a00o/index.m3u8
+#EXTINF:-1,ESPN HD
+http://200.58.73.46:1976/play/a011/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://200.58.73.46:1976/play/a00t/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://200.58.73.46:1976/play/a00m/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://200.58.73.46:1976/play/a014/index.m3u8
+#EXTINF:-1,History HD
+http://200.58.73.46:1976/play/a017/index.m3u8
+#EXTINF:-1,Kanal D Drama HD
+http://200.58.73.46:1976/play/a001/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://200.58.73.46:1976/play/a01c/index.m3u8
+#EXTINF:-1,TNT HD
+http://200.58.73.46:1976/play/a01a/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://200.58.73.46:1976/play/a01b/index.m3u8
+#EXTINF:-1,TRUTV HD
+http://200.58.73.46:1976/play/a019/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://200.58.73.46:1976/play/a00w/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://200.58.73.46:1976/play/a018/index.m3u8
