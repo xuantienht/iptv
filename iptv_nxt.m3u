@@ -61,8 +61,12 @@ https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/189/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="📺| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/dvr-${start}-${offset}.m3u8", ON Cine
 https://code.vthanhtivi.pw/getlink/tv360/176/0.m3u8
+#EXTINF:-1 tvg-id="vtvcab11hd" group-title="📺|VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/GS_SHOP_logo_3-2021.png/revision/la📺| THỂ THAO/scale-to-width-down/1000?cb=20210621032236&path-prefix=vi", VTVcab 11 - GS SHOPING
+udp://@225.1.2.167:30120
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="📺| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/dvr-${start}-${offset}.m3u8", ON Style
 https://code.vthanhtivi.pw/getlink/tv360/184/0.m3u8
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="📺|VTVcab" tvg-logo="http://cdn-thumbs.imagevenue.com/4b/d5/e5/ME14JWA7_t.png", VTVcab 13 - VTV Hyundai Homeshopping
+udp://@225.1.1.122:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="📺| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/dvr-${start}-${offset}.m3u8", ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab15/playlist.m3u8
