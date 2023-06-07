@@ -300,6 +300,20 @@ http://14.225.44.14:54321/play/lifesd/index.m3u8
 http://14.225.44.14:54321/play/sport1tn/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 SD
 udp://@225.1.1.11:30120
+#EXTINF:-1 tvg-id="kcinehd" group-title="📺| K+" tvg-logo="https://logo.anttv.xyz/96.png", K+CINE HD (Test)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zrRKGlP2c4VXUsP19m_psPI/m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="📺| K+" tvg-logo="https://logo.anttv.xyz/97.png", K+LIFE HD (Test)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0znN04wfi_qg1UOcZo5lfF6w/m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="📺| K+" tvg-logo="https://logo.anttv.xyz/98.png", K+SPORT1 HD (Test)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zk-BwM7YJFVOSWiYGHFoXDQ/m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="📺| K+" tvg-logo="https://logo.anttv.xyz/99.png", K+SPORT2 HD (Test)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zn3CsNE4Rq793x4_NnBJHO4/m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="📺| K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/Kplus_Kids_2021.png/revision/latest?cb=20220127022015&path-prefix=vi", K+ KIDS (Test)
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="📺| K+ MPD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp",K+ CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
