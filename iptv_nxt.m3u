@@ -67,7 +67,7 @@ udp://@225.1.2.167:30120
 https://code.vthanhtivi.pw/getlink/tv360/184/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="📺|VTVcab" tvg-logo="http://cdn-thumbs.imagevenue.com/4b/d5/e5/ME14JWA7_t.png", VTVcab 13 - VTV Hyundai Homeshopping
 udp://@225.1.1.122:30120
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="📺| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/dvr-${start}-${offset}.m3u8", ON Music
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="📺|VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/dvr-${start}-${offset}.m3u8", ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab15/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="📺| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football HD
@@ -293,19 +293,19 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
 
 #-*--Kẹo-*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://188.166.214.111:9981/stream/channelid/755547061
+
 #EXTINF:-1 tvg-id="klifehd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE SD
 http://14.225.44.14:54321/play/lifesd/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 http://14.225.44.14:54321/play/sport1tn/index.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 SD
-udp://@225.1.1.11:30120
-#EXTINF:-1 tvg-id="kcinehd" group-title="📺| K+" tvg-logo="https://logo.anttv.xyz/96.png", K+CINE HD (Test)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="📺| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmheWSCYR_J4uV2imYSMWRX/m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="📺| K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/Kplus_Kids_2021.png/revision/latest?cb=20220127022015&path-prefix=vi", K+ KIDS (Test)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zrRKGlP2c4VXUsP19m_psPI/m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="📺| K+" tvg-logo="https://logo.anttv.xyz/97.png", K+LIFE HD (Test)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0znN04wfi_qg1UOcZo5lfF6w/m3u8
+#http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0znN04wfi_qg1UOcZo5lfF6w/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="📺| K+" tvg-logo="https://logo.anttv.xyz/98.png", K+SPORT1 HD (Test)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zk-BwM7YJFVOSWiYGHFoXDQ/m3u8
@@ -874,20 +874,42 @@ udp://@225.1.1.2:30120
 udp://@225.1.4.199:30120
 #EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình
 udp://@225.1.4.200:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 1: VTV1
+udp://@225.1.1.21:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 2: VTV2
+udp://@225.1.1.22:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 3: VTV3
+udp://@225.1.1.23:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 4: VTV4
+udp://@225.1.1.24:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 5: VTV5
+udp://@225.1.1.25:30120
 #EXTINF:-1 group-title="FPT Service",Pladio
 udp://@225.1.2.244:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.11:30120
+#udp://@225.1.1.10:30120
 #EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.30:30120
+udp://@225.1.1.28:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.32:30120
+udp://@225.1.1.31:30120
 #EXTINF:-1 group-title="FPT Service",Event
-udp://@225.1.1.68:30120
+#udp://@225.1.1.32:30120
+#EXTINF:-1 group-title="FPT Service",Event
+#udp://@225.1.1.33:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.72:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.92:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.93:30120
+#EXTINF:-1 group-title="FPT Service",Event
+udp://@225.1.1.94:30120
 #EXTINF:-1 group-title="FPT Service",Event
 udp://@225.1.1.95:30120
+#EXTINF:-1 group-title="FPT Service",K+ Sport 2
+udp://@225.1.1.11:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.1.65:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
