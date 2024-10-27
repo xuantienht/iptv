@@ -660,7 +660,7 @@ udp://@225.1.2.211:30120
 #EXTVLCOPT:http-user-agent=VThanhTivi
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="hgtv" group-title="📺| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-#https://code.vthanhtivi.pw/getlink/tv360/rH_VHvxaygyJ1rFIRV5m9g/1697375553/99/playlist.m3u8
+http://thvip.site/360/99/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="📺| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
