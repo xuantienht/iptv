@@ -18,7 +18,7 @@ udp://@225.1.2.20:30120
 udp://@225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-udp://@225.1.2.245:30120
+udp://@225.1.2.154:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 udp://@225.1.2.96:30120
@@ -28,6 +28,9 @@ udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 udp://@225.1.1.128:30120
+#EXTINF:-1 tvg-id="vtv10hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+udp://@225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 HD Tây Nam Bộ
 udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
