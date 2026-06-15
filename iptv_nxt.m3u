@@ -28,7 +28,7 @@ udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 udp://@225.1.1.128:30120
-#EXTINF:-1 tvg-id="vtv10hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 HD
+#EXTINF:-1 tvg-id="vtv10hd" group-title="📺|VTV" tvg-logo="https://s1286.cdn.mytvnet.vn/vimages/c7/77/77/76/6b/b9/c7776-pvtv10hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV10 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 udp://@225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 HD Tây Nam Bộ
